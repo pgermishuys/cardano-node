@@ -195,6 +195,7 @@ test-suite cardano-cli-pioneers
                         Test.CLI.Shelley.TextEnvelope.Golden.Tests
                         Test.CLI.Shelley.TextEnvelope.Golden.VRFKeys
                         Test.ITN
+                        Test.Metadata
                         Test.OptParse
                         Test.Pioneers.Exercise1
                         Test.Pioneers.Exercise2
